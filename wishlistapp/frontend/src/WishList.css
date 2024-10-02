@@ -1,0 +1,13 @@
+.wishlist {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+}
+.wish-item {
+  background-color: #f9f9f9;
+  padding: 8px;
+  margin-bottom: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}

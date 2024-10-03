@@ -5,6 +5,7 @@ function WishItem(properties) {
     <div>
       <h2>{properties.title}</h2>
       <p>{properties.description}</p>
+      <button onClick={()=>properties.onDelete(properties.id)}>Delete</button>
     </div>
   );
 }
